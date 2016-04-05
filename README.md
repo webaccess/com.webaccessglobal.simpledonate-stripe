@@ -1,0 +1,1 @@
+# com.webaccessglobal.simpledonate-stripe
