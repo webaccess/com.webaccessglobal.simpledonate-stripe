@@ -12,6 +12,6 @@ Simple donation page:
 Contribution >> Simple Donate >> Test mode
 Contribution >> Simple Donate >> Live mode
 
-Requirements: CiviCRM v4.6+
+Requirements: CiviCRM v4.7+
 
 This is a fork of simple donate extension that works with Stripe payment processor
